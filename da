@@ -1,0 +1,50 @@
+[33mcommit e15dfd88291a1c340c2c1771eda8d6dd76f0e6d5[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Onakleaver <kleaver49@gmailcom>
+Date:   Fri Feb 3 02:00:41 2023 -0800
+
+    Starting to code today,so cool
+
+[33mcommit 2852d8efdbc907a45f7caec92f1ecdb636cafbc4[m
+Author: Onakleaver <kleaver49@gmail.com>
+Date:   Fri Feb 3 01:41:25 2023 -0800
+
+    Starting to code today,so cool
+    
+    This reverts commit 0a6ee3f83edfaf55409ffa1d393672afa0667be9.
+
+[33mcommit 0a6ee3f83edfaf55409ffa1d393672afa0667be9[m
+Author: Onakleaver <kleaver49@gmail.com>
+Date:   Fri Feb 3 01:38:55 2023 -0800
+
+    Started to code today, so cool
+
+[33mcommit a6569fbb7305c2ce8c16041d7b2fdf4abbac3060[m
+Author: Onakleaver <kleaver49@gmail.com>
+Date:   Fri Feb 3 01:05:52 2023 -0800
+
+    Revert "Starting code today,so cool"
+    This reverts commit f6a54faaffeb2e1fb4e681be67f5c799f0213530.
+
+[33mcommit f6a54faaffeb2e1fb4e681be67f5c799f0213530[m
+Author: Onakleaver <kleaver49@gmail.com>
+Date:   Fri Feb 3 01:03:22 2023 -0800
+
+    Starting code today,so cool
+
+[33mcommit c1687826430a2a4b671f7575120e1bc54f00d3be[m
+Author: Onakleaver <Kleaver49@gmail.com>
+Date:   Fri Feb 3 00:54:24 2023 -0800
+
+    This is the second commit
+
+[33mcommit 9e9e823004100f439e8df2cd9b05530ef5238f84[m
+Author: Onakleaver <kleaver49@gmail.com>
+Date:   Fri Feb 3 00:40:57 2023 -0800
+
+    This is the second commit
+
+[33mcommit 41cfb34eac32b2048e4467000c1a7476406b5469[m
+Author: Onakleaver <kleaver49@gmail.com>
+Date:   Fri Feb 3 00:29:54 2023 -0800
+
+    My first commit
